@@ -1,10 +1,9 @@
-import Countercomponent from "./components/Countercomponent";
 import "./styles.css";
-
+import Testcomponent from "./components/Testcompoent.jsx";
 export default function App() {
   return (
     <div className="App">
-      <Countercomponent />
+      <Testcomponent />
     </div>
   );
 }
